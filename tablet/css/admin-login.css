@@ -1,0 +1,87 @@
+.version.admin_login /* version checker */
+{
+	color: #00000E;
+	background-color: #431A4D;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 1024px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u13810
+{
+	z-index: 2;
+	height: 1309px;
+	border-color: #000000;
+	background: #FFFFFF url("../../images/tile_bg.jpg") repeat left top;
+}
+
+#u13810-bw
+{
+	z-index: 2;
+	height: 1309px;
+}
+
+#u13811
+{
+	z-index: 3;
+	min-height: 696px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u13811-bw
+{
+	z-index: 3;
+	min-height: 696px;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

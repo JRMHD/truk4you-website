@@ -1,0 +1,162 @@
+.version.failed_login /* version checker */
+{
+	color: #0000FB;
+	background-color: #C5EE95;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1000px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -1px;
+}
+
+#page_position_content
+{
+	margin-top: -1px;
+	width: 0.01px;
+}
+
+#u13317
+{
+	z-index: 2;
+	min-height: 1389px;
+	border-color: #000000;
+	background: #FFFFFF url("../images/tile_bg.jpg") repeat left top;
+}
+
+#u13317_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 962px;
+	position: relative;
+	left: -99px;
+	padding-top: 189px;
+	padding-bottom: 917px;
+}
+
+#u13320
+{
+	z-index: 12;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	left: 413px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u13318-4
+{
+	z-index: 3;
+	width: 259px;
+	min-height: 69px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	left: 451px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u13319-5
+{
+	z-index: 7;
+	width: 277px;
+	min-height: 33px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 442px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u13319-2
+{
+	font-size: 11px;
+	text-align: center;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u13319
+{
+	font-weight: 700;
+}
+
+#u13321
+{
+	z-index: 13;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	left: 413px;
+	margin-top: 11px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u13322-4
+{
+	z-index: 14;
+	width: 259px;
+	min-height: 61px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	left: 451px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#u13317-bw
+{
+	z-index: 2;
+	min-height: 1389px;
+}
+
+body
+{
+	position: relative;
+	min-width: 962px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

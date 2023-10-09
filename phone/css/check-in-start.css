@@ -1,0 +1,383 @@
+.version.check_in_start /* version checker */
+{
+	color: #0000E5;
+	background-color: #09E2E1;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u12386
+{
+	z-index: 2;
+	min-height: 791.6125000000008px;
+	border-color: #000000;
+	padding-bottom: 0px;
+	background: #FFFFFF url("../../images/tile_bg.jpg") repeat left top;
+}
+
+#u12386_position_content
+{
+	padding-top: 45px;
+	padding-bottom: 348px;
+}
+
+#u13518
+{
+	z-index: 39;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	margin-left: 23px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u13516-4
+{
+	z-index: 31;
+	width: 336px;
+	min-height: 69px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-size: 40px;
+	text-align: center;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	margin-left: 22px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u13517-4
+{
+	z-index: 35;
+	width: 277px;
+	min-height: 33px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 15px;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: 51px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u13519
+{
+	z-index: 40;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	margin-left: 22px;
+	margin-top: 12px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u12393-4
+{
+	z-index: 27;
+	width: 381px;
+	min-height: 23px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 12px;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: 111px;
+	position: relative;
+}
+
+#u12393
+{
+	font-size: 12px;
+	font-weight: 700;
+}
+
+#pu12388-4
+{
+	width: 0.01px;
+	margin-left: 77px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u12388-4
+{
+	z-index: 7;
+	width: 98px;
+	min-height: 23px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12388-4:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 98px;
+	margin: 0px -10000px -1px 0px;
+	border-width: 0px 0px 2px;
+}
+
+#u12389-4
+{
+	z-index: 11;
+	width: 98px;
+	min-height: 23px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+	left: 128px;
+}
+
+#u12389-4:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 98px;
+	margin: 0px -10000px -1px 0px;
+	border-width: 0px 0px 2px;
+}
+
+#pu12392-4
+{
+	width: 0.01px;
+	margin-left: 28px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u12392-4
+{
+	z-index: 23;
+	width: 98px;
+	min-height: 23px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u12392-4:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 98px;
+	margin: 0px -10000px -1px 0px;
+	border-width: 0px 0px 2px;
+}
+
+#u12391-4
+{
+	z-index: 19;
+	width: 98px;
+	min-height: 23px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+	left: 113px;
+}
+
+#u12391-4:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 98px;
+	margin: 0px -10000px -1px 0px;
+	border-width: 0px 0px 2px;
+}
+
+#u12390-4
+{
+	z-index: 15;
+	width: 98px;
+	min-height: 23px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+	left: 226px;
+}
+
+#u12390-4:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 98px;
+	margin: 0px -10000px -1px 0px;
+	border-width: 0px 0px 2px;
+}
+
+#u12388-4:active,#u12389-4:active,#u12392-4:active,#u12391-4:active,#u12390-4:active
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 98px;
+	margin: 0px -10000px -1px 0px;
+	border-width: 0px 0px 1px;
+}
+
+#u13517,#u12388,#u12389,#u12392,#u12391,#u12390
+{
+	font-weight: 700;
+}
+
+#u12386-bw
+{
+	z-index: 2;
+	min-height: 791.6125000000008px;
+}
+
+#u12387-4
+{
+	z-index: 3;
+	min-height: 69px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-size: 55px;
+	text-align: center;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+}
+
+#u12387-4-bw
+{
+	z-index: 3;
+	min-height: 69px;
+	margin-top: 257px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

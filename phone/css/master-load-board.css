@@ -1,0 +1,107 @@
+.version.master_load_board /* version checker */
+{
+	color: #000017;
+	background-color: #67E76D;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u14244
+{
+	z-index: 2;
+	min-height: 79px;
+	border-color: #000000;
+	padding-bottom: 2017px;
+	background: #FFFFFF url("../../images/tile_bg.jpg") repeat left top;
+}
+
+#u14247
+{
+	z-index: 4;
+	width: 183px;
+	min-height: 47px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #565656;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 900;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 95px;
+}
+
+#u14244-bw
+{
+	z-index: 2;
+	min-height: 79px;
+}
+
+#u14245
+{
+	z-index: 3;
+	min-height: 1994px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u14245-bw
+{
+	z-index: 3;
+	min-height: 1994px;
+	margin-top: 106px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

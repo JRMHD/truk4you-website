@@ -1,0 +1,162 @@
+.version.suspended_member /* version checker */
+{
+	color: #000002;
+	background-color: #337C91;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1000px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -1px;
+}
+
+#page_position_content
+{
+	margin-top: -1px;
+	width: 0.01px;
+}
+
+#u13502
+{
+	z-index: 2;
+	min-height: 1468px;
+	border-color: #000000;
+	background: #FFFFFF url("../images/tile_bg.jpg") repeat left top;
+}
+
+#u13502_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 962px;
+	position: relative;
+	left: -99px;
+	padding-top: 190px;
+	padding-bottom: 942px;
+}
+
+#u13505
+{
+	z-index: 15;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	left: 413px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u13503-4
+{
+	z-index: 3;
+	width: 259px;
+	min-height: 69px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	left: 451px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u13504-8
+{
+	z-index: 7;
+	width: 277px;
+	min-height: 33px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 441px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u13504-2,#u13504-3,#u13504-5
+{
+	font-size: 11px;
+	text-align: center;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u13504,#u13504-4
+{
+	font-weight: 700;
+}
+
+#u13506
+{
+	z-index: 16;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	left: 413px;
+	margin-top: 11px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u13507-4
+{
+	z-index: 17;
+	width: 259px;
+	min-height: 61px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	left: 451px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#u13502-bw
+{
+	z-index: 2;
+	min-height: 1468px;
+}
+
+body
+{
+	position: relative;
+	min-width: 962px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,73 @@
+.version.driver_login /* version checker */
+{
+	color: #0000E2;
+	background-color: #C85247;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 1024px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u13382
+{
+	z-index: 2;
+	min-height: 1392px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u13382-bw
+{
+	z-index: 2;
+	min-height: 1392px;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,165 @@
+.version.failed_login /* version checker */
+{
+	color: #0000FF;
+	background-color: #867A2D;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u13173
+{
+	z-index: 2;
+	min-height: 283px;
+	border-color: #000000;
+	padding: 39px 23px 538px;
+	background: #FFFFFF url("../../images/tile_bg.jpg") repeat left top;
+}
+
+#u13171
+{
+	z-index: 12;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u13169-4
+{
+	z-index: 3;
+	width: 259px;
+	min-height: 69px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	margin-left: 38px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u13170-5
+{
+	z-index: 7;
+	width: 277px;
+	min-height: 33px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 29px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u13170-2
+{
+	font-size: 11px;
+	text-align: center;
+	letter-spacing: 2px;
+	color: #7F7F7F;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u13170
+{
+	font-weight: 700;
+}
+
+#u13172
+{
+	z-index: 13;
+	width: 334px;
+	height: 6px;
+	border-style: solid;
+	border-color: #DCDAD4;
+	background-color: #505050;
+	margin-top: 11px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u13174-4
+{
+	z-index: 14;
+	width: 259px;
+	min-height: 61px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: -1px;
+	color: #46433E;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	margin-left: 37px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#u13173-bw
+{
+	z-index: 2;
+	min-height: 283px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
